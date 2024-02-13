@@ -4,7 +4,7 @@
 
 ## Tutorial
 
-Video: 
+Video: https://youtu.be/-1oKeXXdIn0
 
 ## Steps
 1 - login GCP
