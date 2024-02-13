@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Wallace Graça - Data Engineer</title>
+</head>
+<body>
+
+<!-- Hero Description -->
+<div class="heroDescription">
+    <p class="greeting">HI THERE! I'M</p>
+    <h1><span>Wallace Graça - Data Engineer</span></h1>
+    <div class="heroImageContainer">
+        <img src="assets/me/wallace-graca.png" alt="A picture of Wallace Graça.">
+    </div>
+    <div class="socialsResume">
+        <ul class="socialsList">
+            <!-- LinkedIn -->
+            <li>
+                <a href="https://www.linkedin.com/in/wallace-camargo-35b615171/" target="_blank" rel="noopener noreferrer">
+                    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn">
+                </a>
+            </li>
+            <!-- GitHub -->
+            <li>
+                <a href="https://github.com/wlcamargo" target="_blank" rel="noopener noreferrer">
+                    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub">
+                </a>
+            </li>
+            <!-- YouTube -->
+            <li>
+                <a href="https://www.youtube.com/channel/UCK0B4IoF57JoiVVVeEcN8-A/videos" target="_blank" rel="noopener noreferrer">
+                    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&amp;logo=youtube&amp;logoColor=white" alt="YouTube">
+                </a>
+            </li>
+        </ul>
+    </div>
+</div>
+
+<!-- Texto de Deploy Automatizado -->
+<p>This is an automated deployment from GitHub Actions to Cloud Run (Google Cloud Platform) .</p>
+
+</body>
+</html>
