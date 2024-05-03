@@ -1,5 +1,4 @@
 name: GCP
-
 on:
   push:
     branches: [main]
