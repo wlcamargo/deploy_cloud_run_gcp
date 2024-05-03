@@ -28,9 +28,7 @@ jobs:
 
       # Build Docker image
       - name: Build Docker image
-        run: docker buildx build -t $IMAGE_NAME .
-
-
+        run: docker build -t $IMAGE_NAME .
 
       # Tag Docker image with GCR URI
       - name: Tag Docker image
