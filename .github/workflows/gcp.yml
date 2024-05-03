@@ -1,4 +1,4 @@
-ame: GCP
+name: GCP
 
 on:
   push:
