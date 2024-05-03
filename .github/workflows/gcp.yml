@@ -28,8 +28,9 @@ jobs:
 
       # Build Docker image
       - name: Build Docker image
-        run: docker build -t $IMAGE_NAME .
-        working-directory: ${{ github.workspace }}
+        run: docker buildx build -t $IMAGE_NAME .
+
+
 
       # Tag Docker image with GCR URI
       - name: Tag Docker image
